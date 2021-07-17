@@ -1,1 +1,1 @@
-# Amplicon-based-Next-Generation-to-identification-of-trypanomastids-
+Identification of trypanomastids usin Amplicon based Next Generation Sequencing.
