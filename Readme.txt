@@ -1,0 +1,1 @@
+Development of an amplicon-based Next Generation Sequencing protocol to identify Leishmania species and other trypanosomatids.
